@@ -7,7 +7,7 @@ import os
 
 
 username='materufino'
-token='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'
+token='<token>'
 repo='Control'
 
 
